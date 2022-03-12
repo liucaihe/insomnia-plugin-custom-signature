@@ -1,0 +1,13 @@
+{
+  "name": "insomnia-plugin-custom-signature",
+  "version": "1.0.0",
+  "main": "app.js",
+  "insomnia": {
+    "name": "Signature",
+    "displayName": "API Custom Signature",
+    "description": "Newlink API Custom Signature verification"
+  },
+  "dependencies": {
+    "md5": "^2.3.0"
+  }
+}
